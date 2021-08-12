@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/46245749/129199407-95144a0b-db31-4b79-acb8-d505b83076a7.gif" width="19%" height="19%" align="right"/>
+<img src="https://user-images.githubusercontent.com/46245749/129199407-95144a0b-db31-4b79-acb8-d505b83076a7.gif" width="28%" height="28%" align="right"/>
 
 # Words App
 
